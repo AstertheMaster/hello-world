@@ -1,2 +1,3 @@
 # hello-world
 My first repository 
+hello this is a bit of information, or must i say bits...
